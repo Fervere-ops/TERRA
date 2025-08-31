@@ -1,4 +1,4 @@
-﻿slope angle,rainfall intensity,soil moisture level,seismic activity,landslide
+﻿angle,rainfall,moisture,seismic,landslide
 5,10,1,0.099114628,no
 6,12,1,0.604369645,no
 7,13,2,0.495257658,no
@@ -38,3 +38,4 @@
 15,29,6.9,0.576440491,yes
 10,21,4.1,0.598466113,no
 12,25,5.1,0.934308201,yes
+
